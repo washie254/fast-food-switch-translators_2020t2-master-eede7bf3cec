@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "828076911194",
+    "firebase_url": "https://fast-food-switch-project.firebaseio.com",
+    "project_id": "fast-food-switch-project",
+    "storage_bucket": "fast-food-switch-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828076911194:android:20266066daafa5d512c663",
+        "android_client_info": {
+          "package_name": "com.example.fastfoodswitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828076911194-kesabjec9aihhb04b8d43kutfoh4olb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS97WgYCch3I8xV2fL-7Gtbcej8WHihJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828076911194-kesabjec9aihhb04b8d43kutfoh4olb6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "828076911194-7p8ops5hfj8bmth5aremac08ba9t629d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fastfoodswitch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
